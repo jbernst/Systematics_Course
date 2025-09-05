@@ -5,5 +5,5 @@ Code for this course will be uplaoded to this repository as class progresses.
 
 This syllabus is subject to change pending on the number of students enrolled.
 
-To access the syllabus, click on the PDF in this repository, or CLICK HERE.
+To access the syllabus, click on the PDF in this repository, or [CLICK HERE](https://github.com/jbernst/Systematics_Course/blob/main/Systematics_Syllabus_v2.2025.pdf).
 
